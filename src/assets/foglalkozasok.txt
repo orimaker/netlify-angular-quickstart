@@ -1,0 +1,1372 @@
+FOGLALKOZÁSOK
+
+    1. ALKALMAZOTT  TUDOMÁNYOK
+        1.1. Mérnök
+            1.1.1. Agrármérnök
+                1.1.1.1. Mezőgazd. gépészmérnök
+                1.1.1.2. Növénynemesítő
+            1.1.2. Bányamérnök
+            1.1.3. Élelmiszerip. mérnök
+                1.1.3.1. Malomip. mérnök
+            1.1.4. Építészmérnök/építőmérnök
+                1.1.4.1. Hajóép. mérnök
+                1.1.4.2. Hídép. mérnök
+                1.1.4.3. Repülőgéptervező
+                1.1.4.4. Vasútép. mérnök
+                1.1.4.5. Vízép. Mérnök
+            1.1.5. Erdőmérnök
+            1.1.6. Faipari mérnök
+            1.1.7. Geodéta
+            1.1.8. Gépészmérnök
+1.1.8.1	Mezőgazd. gépészmérnök
+            1.1.9. Hadmérnök
+            1.1.10. Kertészmérnök
+1.1.10.1	Pomológus
+            1.1.11. Kohómérnök
+            1.1.12. Közlekedési mérnök
+                1.1.12.1. Repülőmérnök
+                    1.1.12.1.1. Aviatikus
+                1.1.12.2. Vasútép. mérnök
+            1.1.13. Nyomdamérnök
+            1.1.14. Olajmérnök
+            1.1.15. Papírip. mérnök
+            1.1.16. Textilmérnök
+            1.1.17. Űrkutató
+            1.1.18. Vegyészmérnök
+            1.1.19. Villamosmérnök
+
+        1.2. MEZŐGAZDASÁG
+            1.2.1. Agrárközgazdász
+            1.2.2. Agrármérnök
+            1.2.3. Agrárstatisztikus
+            1.2.4. Agrártörténész
+            1.2.5. Agrogeológus
+            1.2.6. Agrokémikus
+            1.2.7. Állatorvos
+            1.2.8. Baromfitenyésztési szakértő
+            1.2.9. Dohánytermesztési szakértő
+            1.2.10. Erdész
+            1.2.11. Erdőmérnök
+            1.2.12. Földbirtokos
+1.2.12.1	Nagybirtokos
+            1.2.13. Halász
+            1.2.14. Haltenyésztési szakértő
+            1.2.15. Juhtenyésztési szakértő
+            1.2.16. Kertépítész
+            1.2.17. Kertész
+            1.2.18. Kertészmérnök
+            1.2.19. Mezőgazd. gépészmérnök
+            1.2.20. Mezőgazdász
+            1.2.21. Mikológus
+            1.2.22. Növénynemesítő
+            1.2.23. Pomológus
+            1.2.24. Talajbiológus
+            1.2.25. Talajvegyész
+            1.2.26. Tejgazd. szakértő
+            1.2.27. Tsz-elnök
+
+        1.3. Orvos
+            1.3.1. Állatorvos
+            1.3.2. Anatómus
+                1.3.2.1. Hisztológus
+            1.3.3. Aneszteziológus
+            1.3.4. Fiziológus
+                1.3.4.1. Immunológus
+            1.3.5. Fürdőorvos
+            1.3.6. Gerontológus
+            1.3.7. Gyermekgyógyász
+            1.3.8. Gyógyszerész
+                1.3.8.1. Gyógynövénykutató
+                1.3.8.2. Gyógyszerészettörténész
+                1.3.8.3. Toxikológus
+            1.3.9. Higiénikus
+                1.3.9.1. Bakteriológus
+                1.3.9.2. Dietétikus
+                1.3.9.3. Parazitológus
+                1.3.9.4. Virológus
+            1.3.10. Igazságügyi orvosszakértő
+            1.3.11. Mentőorvos
+            1.3.12. Orvostörténész
+            1.3.13. Patológus
+                1.3.13.1. Belgyógyász
+                    1.3.13.1.1. Allergológus
+                    1.3.13.1.2. Bőrgyógyász
+                    1.3.13.1.3. Diabetológus
+                    1.3.13.1.4. Elektroenkefalográfus
+                    1.3.13.1.5. Endokrinológus
+                        1.3.13.1.5.1. Neuroendokrinológus
+                    1.3.13.1.6. Fogorvos
+                        1.3.13.1.6.1. Sztomatológus
+                    1.3.13.1.7. Fül-orr-gégész
+                    1.3.13.1.8. Gasztroenterológus
+                    1.3.13.1.9. KERINGÉSI BETEGSÉGEK
+                        1.3.13.1.9.1. Angiológus
+                        1.3.13.1.9.2. Hematológus
+                        1.3.13.1.9.3. Kardiológus
+                    1.3.13.1.10.  Neurológus
+                        1.3.13.1.10.1. Ideg- és elmegyógyász
+                        1.3.13.1.10.2. Idegsebész
+                        1.3.13.1.10.3. Neurobiológus
+                        1.3.13.1.10.4. Neuroendokrinológus
+                        1.3.13.1.10.5. Neuroradiológus
+                        1.3.13.1.10.6. Pszichoanalitikus
+                        1.3.13.1.10.7. Pszichoterapeuta
+                    1.3.13.1.11. Onkológus
+                    1.3.13.1.12. Reumatológus
+                    1.3.13.1.13. Röntgenológus
+                    1.3.13.1.14. Szemész
+                    1.3.13.1.15. Tüdőgyógyász
+                    1.3.13.1.16. Urológus
+            1.3.14. Radiológus
+            1.3.15. Sebész
+                1.3.15.1. Idegsebész
+                1.3.15.2. Kardiológus
+                1.3.15.3. Ortopédus
+                1.3.15.4. Traumatológus
+            1.3.16. Sportorvos
+            1.3.17. Szülész/nőgyógyász 
+1.1.17.1	Szülésznő
+
+        1.4. Számítástechnikus
+            1.4.1. Informatikus
+1.4.1.1	Sajtóinformatikus		
+            1.4.2. Kibernetikus
+            1.4.3. Rendszerszervező
+            1.4.4. Térinformatikus
+
+        1.5. TECHNIKATÖRTÉNET
+            1.5.1. Feltaláló
+            1.5.2. Technikatörténész
+                1.5.2.1. Fegyvertörténész
+                1.5.2.2. Nyomdatörténész
+
+    2. GAZDASÁG
+        2.1. Biztosítási szakértő
+        2.2. ÉLELMISZERIPAR
+            2.2.1. Élelmiszerip. mérnök
+            2.2.2. Malomip. mérnök
+            2.2.3. Malomip. szakértő
+            2.2.4. Malomtulajdonos
+            2.2.5. Szeszipari szakértő
+
+        2.3. GRAFIKAI IPAR
+            2.3.1. Könyvkereskedő
+2.3.1.1	Antikvárius	
+            2.3.2. Könyvkiadó
+            2.3.3. Könyvmásoló
+            2.3.4. Nyomdász
+                2.3.4.1. Nyomdamérnök
+                2.3.4.2. Nyomdatörténész
+                2.3.4.3. Nyomdatulajdonos
+            2.3.5. Papírip. mérnök
+            2.3.6. Tipográfus
+
+        2.4. Kereskedő
+            2.4.1. Könyvkereskedő
+            2.4.2. Külkereskedő
+            2.4.3. Műkereskedő
+            2.4.4. Textilkereskedő
+
+        2.5. Magántisztviselő
+
+        2.6. Munkavédelmi szakértő
+
+        2.7. PÉNZÜGY
+            2.7.1. Bankár
+            2.7.2. Bírósági végrehajtó
+            2.7.3. Könyvelő
+            2.7.4. Numizmatikus
+            2.7.5. Pénztáros
+            2.7.6. Pénzügyi könyvszakértő
+            2.7.7. Pénzügyőr
+            2.7.8. Pénzverő
+            2.7.9. Vámszakértő
+
+        2.8. Szakszervezeti vezető
+
+        2.9. Szövetkezeti vezető
+
+        2.10. Textilmunkás
+
+        2.11. ÜZLETEMBER
+            2.11.1. Cserépgyáros
+            2.11.2. Gyárigazgató
+            2.11.3. Ingatlanügynök
+            2.11.4. Ipari vezető
+            2.11.5. Malomtulajdonos
+            2.11.6. Mozitulajdonos
+            2.11.7. Nyomdatulajdonos
+            2.11.8. Ügynök
+2.11.8.1	Tőzsdeügynök
+            2.11.9. Vállalkozó/üzletember
+
+        2.12. VEGYIPAR
+            2.12.1. Élelmiszerip. mérnök
+            2.12.2. Olajmérnök
+            2.12.3. Vegyészmérnök
+
+    3. GYŰJTŐK
+        3.1. Filatelista
+        3.2. Műgyűjtő
+
+
+    4. MESTERSÉGEK
+        4.1. BÁNYÁSZAT
+            4.1.1. Bányász
+            4.1.2. Bányamester
+ 
+        4.2. BÚTORIPAR
+            4.2.1. Asztalos
+            4.2.2. Kárpitos
+
+        4.3. EGÉSZSÉGÜGY
+            4.3.1. Ápoló
+            4.3.2. Csecsemő/gyermekgondozó
+            4.3.3. Egészségügyi asszisztens
+            4.3.4. Fogtechnikus
+            4.3.5. Természetgyógyász
+            4.3.6. Védőnő
+
+        4.4. ÉLELMISZERIPAR
+            4.4.1. Fölözőmester
+            4.4.2. Hentes/mészáros
+            4.4.3. Lángossütő
+            4.4.4. Mézeskalácsos
+            4.4.5. Molnár
+            4.4.6. Pálinkafőző
+            4.4.7. Pálinkamester
+            4.4.8. Pékmester
+            4.4.9. Sajtkészítő
+            4.4.10. Sörfőző
+
+        4.5. ÉPÍTŐMESTERSÉG
+            4.5.1. Ács
+            4.5.2. Építőmester
+            4.5.3. Kőműves
+            4.5.4. Műszaki rajzoló
+            4.5.5. Téglamester
+            4.5.6. Tetőfedő
+
+        4.6. FAIPAR
+            4.6.1. Ács
+            4.6.2. Asztalos
+            4.6.3. Esztergályos
+            4.6.4. Kádár
+
+        4.7. FÉMMŰVESSÉG
+            4.7.1. Aranyműves
+            4.7.2. Bádogos
+            4.7.3. Ércöntő
+                4.7.3.1. Ágyúöntő
+            4.7.4. Hegesztő
+            4.7.5. Hutamester
+            4.7.6. Kábelmester
+            4.7.7. Kohász
+            4.7.8. Kovácsmester
+            4.7.9. Lakatos
+            4.7.10. Ónmíves
+            4.7.11. Rézműves
+
+        4.8. Hangszerkészítő
+            4.8.1. Citerakészítő
+            4.8.2. Orgonaépítő
+
+        4.9. KÉZMŰVESIPAR
+            4.9.1. Cipészmester
+            4.9.2. Csizmadia
+            4.9.3. Ékszerész
+            4.9.4. Fazekas
+            4.9.5. Fésűsmester
+            4.9.6. Gyékényfonó
+            4.9.7. Kályhásmester
+            4.9.8. Kefekötő
+            4.9.9. Késes
+            4.9.10. Kosárfonó
+            4.9.11. Kútfúrómester
+            4.9.12. Kulacskészítő
+            4.9.13. Mészégető
+            4.9.14. Puskaműves
+            4.9.15. Szíjgyártó
+            4.9.16. Szűcs
+            4.9.17. Takács
+            4.9.18. Tímár
+            4.9.19. Üvegesmester
+
+        4.10. KÖZLEKEDÉS
+            4.10.1. Autószerelő
+            4.10.2. Bognár
+            4.10.3. Fuvaros
+            4.10.4. Gépkocsivezető
+            4.10.5. Hajófűtő
+            4.10.6. Hajógépész
+            4.10.7. Hajógépkezelő
+            4.10.8. Hajókormányos
+            4.10.9. Hajóstiszt
+            4.10.10. Hajóvezető
+            4.10.11. Légijármű-karbantartó
+            4.10.12. Légiutas-kísérő
+            4.10.13. Matróz
+            4.10.14. Pilóta
+                4.10.14.1. Repülőtiszt
+                4.10.14.2. Űrhajós
+            4.10.15. Repülésirányító
+            4.10.16. Útmester
+            4.10.17. Vasutas
+
+        4.11. MEZŐGAZDASÁG
+            4.11.1. Állattenyésztő
+                4.11.1.1. Galambtenyésztő
+                    4.11.1.1.1. Postagalamb-tenyésztő
+                4.11.1.2. Kutyatenyésztő
+                4.11.1.3. Lótenyésztő
+                4.11.1.4. Méhész
+            4.11.2. Borász
+            4.11.3. Erdész
+            4.11.4. Földműves
+            4.11.5. Juhász
+            4.11.6. Kertész
+	4.11.6.1	Biokertész
+            4.11.7. Pásztor
+            4.11.8. Solymász
+            4.11.9. Szőlész
+            4.11.10. Vadász
+
+        4.12. RUHAIPAR
+            4.12.1. Hímző
+            4.12.2. Kalaposmester
+            4.12.3. Kékfestő
+            4.12.4. Kelmefestő
+            4.12.5. Népviselet-készítő
+            4.12.6. Szabómester
+            4.12.7. Szövő
+            4.12.8. Szűrszabó
+            4.12.9. Textilmunkás
+            4.12.10. Varrónő
+
+        4.13. SZOLGÁLTATÁSOK
+            4.13.1. Adminisztrátor
+            4.13.2. Bírósági végrehajtó
+            4.13.3. Biztonsági őr
+            4.13.4. Biztosítási szakértő
+            4.13.5. Borbély
+            4.13.6. Fényképész
+            4.13.7. Fodrász
+            4.13.8. Fordító
+            4.13.9. Fotómodell
+            4.13.10. Gondnok
+            4.13.11. Írnok
+            4.13.12. Kártevőírtó
+            4.13.13. Kéményseprőmester
+            4.13.14. Kirakatrendező
+            4.13.15. Kozmetikus
+            4.13.16. Könyvelő
+            4.13.17. Könyvkötő
+            4.13.18. Lakberendező
+            4.13.19. Műszerész
+            4.13.20. Optikus
+            4.13.21. Órás
+            4.13.22. Postatisztviselő
+            4.13.23. Raktáros
+            4.13.24. Sminktetováló
+            4.13.25. Szikvízgyártó
+            4.13.26. Szobafestő
+            4.13.27. Takarító
+            4.13.28. Tánctanár
+            4.13.29. Titkár
+            4.13.30. Tolmács
+            4.13.31. Villanyszerelő
+            4.13.32. Virágkötő
+            4.13.33. Vízvezetékszerelő
+            4.13.34. Vőfély
+
+        4.14. TECHNIKA
+            4.14.1. Elektrotechnikus
+            4.14.2. Energetikus
+            4.14.3. Gépkezelő
+            4.14.4. Hangmérnök
+            4.14.5. Híradástechnikus
+            4.14.6. Technikatörténész
+            4.14.7. Technikus/technológus
+
+        4.15. Vendéglátós
+            4.15.1. Cukrász
+            4.15.2. Gasztronómus
+            4.15.3. Sommelier
+            4.15.4. Szakácsmester
+
+    5. MŰVÉSZET
+        5.1. ELŐADÓMŰVÉSZET
+            5.1.1. CIRKUSZ
+                5.1.1.1. Artista
+                5.1.1.2. Bohóc
+                5.1.1.3. Bűvész
+                5.1.1.4. Cirkuszigazgató
+                5.1.1.5. Cirkusztörténész
+            5.1.2. Előadóművész
+            5.1.3. ÉNEKMŰVÉSZET
+                5.1.3.1. Dalszövegíró
+                5.1.3.2. Énekes
+                5.1.3.3. Népdalénekes
+                5.1.3.4. Nótaszerző
+                5.1.3.5. Operaénekes
+                5.1.3.6. Pop/rock/táncdalénekes
+            5.1.4. FILMMŰVÉSZET
+                5.1.4.1. Berendező
+                5.1.4.2. Díszlettervező
+                5.1.4.3. Dramaturg
+                5.1.4.4. Filmanimátor
+                5.1.4.5. Filmesztéta
+                5.1.4.6. Filmkritikus
+                5.1.4.7. Filmproducer
+                5.1.4.8. Filmrendező
+                5.1.4.9. Filmtechnikus
+                5.1.4.10. Filmtörténész
+                5.1.4.11. Filmügyelő
+                5.1.4.12. Filmvágó
+                5.1.4.13. Gyártásvezető
+                5.1.4.14. Hangmérnök
+                5.1.4.15. Jelmeztervező
+                5.1.4.16. Kaszkadőr
+                5.1.4.17. Operatőr
+                5.1.4.18. Rajzfilmtervező
+                5.1.4.19. Rendezőasszisztens
+                5.1.4.20. Szerkesztő
+                5.1.4.21. Színész
+                5.1.4.22. Szinkronrendező
+                5.1.4.23. Trükkmester
+            5.1.5. Füttyvirtuóz
+            5.1.6. Jódliművész
+            5.1.7. Humorista
+	2.1.7.1	Parodista
+            5.1.8. Intermédia művész
+            5.1.9. Konferanszié
+            5.1.10. Látványtervező
+            5.1.11. Mozdulatművész
+            5.1.12. Pantomimművész
+            5.1.13. Súgó
+            5.1.14. SZÍNHÁZ
+                5.1.14.1. BÁBMŰVÉSZET
+                    5.1.14.1.1. Bábkészítő
+                    5.1.14.1.2. Bábpedagógus  
+                    5.1.14.1.3. Bábszínész
+                    5.1.14.1.4. Bábtervező
+                    5.1.14.1.5. Bábtörténész
+                5.1.14.2. Díszlettervező
+                5.1.14.3. Dramaturg
+                5.1.14.4. Jelmeztervező
+                5.1.14.5. Maszkmester
+                5.1.14.6. Operaénekes
+                5.1.14.7. Rendező
+                5.1.14.8. Szcenikus
+                5.1.14.9. Színész
+                5.1.14.10. Színházi intendáns
+                5.1.14.11. Színházi producer
+                5.1.14.12.  Színházi ügyelő
+                    5.1.14.12.1. Opera-ügyelő
+                5.1.14.13. Színháztörténész
+                5.1.14.14. Színigazgató
+                5.1.14.15. Színikritikus
+            5.1.15. TÁNCMŰVÉSZET
+                5.1.15.1. Balettáncos
+                5.1.15.2. Koreográfus
+                5.1.15.3. Népitáncos
+                5.1.15.4. Táncművész
+                5.1.15.5. Táncpedagógus
+                5.1.15.6. Tánctörténész
+            5.1.16. Világosító
+            5.1.17. ZENEMŰVÉSZET
+                5.1.17.1. Akusztikus
+                5.1.17.2. BILLENTYŰSOK
+                    5.1.17.2.1. Billentyűs
+                    5.1.17.2.2. Csembalóművész
+                    5.1.17.2.3. Harmonikás
+                    5.1.17.2.4. Orgonaművész
+                    5.1.17.2.5. Zongoraművész
+                5.1.17.3. FÚVÓSOK 
+                    5.1.17.3.1.     Blockflöteművész
+                    5.1.17.3.2.     Dudaművész
+                    5.1.17.3.3.     Fagottos
+                    5.1.17.3.4.     Furulyaművész
+		5.1.17.3.4.1 Tilinkóművész
+                    5.1.17.3.5.     Fuvolaművész
+                    5.1.17.3.6.     Harsonaművész
+                    5.1.17.3.7.     Klarinétművész
+                    5.1.17.3.8.     Kürtművész
+                    5.1.17.3.9.     Oboaművész
+                    5.1.17.3.10.   Szájharmonikás
+                    5.1.17.3.11.   Szaxofonos
+                    5.1.17.3.12.   Tárogatós
+                    5.1.17.3.13.   Trombitaművész
+                    5.1.17.3.14.   Tubaművész
+                5.1.17.4. Hanglemezkiadó
+                5.1.17.5. Hangmérnök
+                5.1.17.6. Hangversenyrendező
+                5.1.17.7. HÚROSOK
+                    5.1.17.7.1.      Bendzsóművész
+                    5.1.17.7.2.      Brácsaművész
+                    5.1.17.7.3.      Cigányprímás
+                    5.1.17.7.4.      Cimbalomművész
+                    5.1.17.7.5.      Citeraművész
+                    5.1.17.7.6.      Gitárművész
+                    5.1.17.7.7.      Gitáros
+                    5.1.17.7.8.      Gordonkaművész
+5.1.16.7.8.1	Viola da gamba-művész
+                    5.1.17.7.9.      Gordonművész
+                    5.1.17.7.10. Hárfaművész
+                    5.1.17.7.11. Hawaii gitárművész
+                    5.1.17.7.12. Hegedűművész
+                    5.1.17.7.13. Hegedűs
+                    5.1.17.7.14. Lantművész
+                    5.1.17.7.15. Mandolinművész
+                    5.1.17.7.16. Szitárművész
+                    5.1.17.7.17. Tamburaművész
+                5.1.17.8. Jazz-zenész
+                5.1.17.9. Karmester
+                5.1.17.10. Karnagy
+                5.1.17.11. Korrepetitor
+                5.1.17.12. Kottagrafikus
+                5.1.17.13. Muzikológus
+                5.1.17.14. Népzenekutató
+                5.1.17.15. Népzenész
+                    5.1.17.15.1. Cigányprímás
+                    5.1.17.15.2. Citeraművész
+                    5.1.17.15.3. Country-zenész
+                    5.1.17.15.4. Dudaművész
+                    5.1.17.15.5. Furulyaművész
+	5.1.16.15.5.1	Tilinkóművész
+                5.1.17.16. Ütőhangszeres művész
+                    5.1.17.16.1. Dobos
+                    5.1.17.16.2. Timpanista
+                    5.1.17.16.3. Vibrafonos
+                5.1.17.17. Zeneesztéta
+                5.1.17.18. Zenei könyvtáros
+                5.1.17.19. Zenei producer
+                5.1.17.20. Zenei rendező
+                5.1.17.21. Zenei szerkesztő
+                5.1.17.22. Zenekritikus
+                5.1.17.23. Zeneműkiadó
+                5.1.17.24. Zeneművész
+                5.1.17.25. Zeneszerző
+                5.1.17.26. Zenetörténész
+
+5.2    ÉPÍTÉSZET    
+            5.2.1 Belsőépítész
+            5.2.2 Építészettörténész
+            5.2.3 Építészmérnök/építőmérnök
+            5.2.4 Hajóép.mérnök
+            5.2.5 Hídép.mérnök
+            5.2.6 Kertépítész
+            5.2.7 Tájépítész
+            5.2.8 Vasútép.mérnök
+            5.2.9 Vízép.mérnök
+
+        5.3 Esztéta
+            5.3.1 Filmesztéta
+            5.3.2 Zeneesztéta
+
+        5.4 IRODALOM
+            5.4.1 Dalszövegíró
+            5.4.2 Emlékiratíró
+            5.4.3 Énekszerző
+            5.4.4 Esztéta
+            5.4.5 Író
+            5.4.6 Irodalomtörténész
+            5.4.7 Költő
+            5.4.8 Klasszika-filológus
+            5.4.9 Kritikus
+            5.4.10 Krónikaíró
+            5.4.11 Műfordító
+            5.4.12 Naplóíró
+            5.4.13 Publicista
+            5.4.14 Szerkesztő
+            5.4.15 Szociográfus
+
+        5.5 Képzőművész
+            5.5.1 Festőművész
+                5.5.1.1 Betűfestő
+                5.5.1.2 Kártyafestő
+                5.5.1.3 Porcelánfestő
+
+            5.5.2 Fotóművész
+                5.5.2.1 Fotóriporter
+                5.5.2.2 Fotótörténész
+
+            5.5.3 Grafikus
+                5.5.3.1 Acélmetsző
+                5.5.3.2 Bankjegygrafikus
+                5.5.3.3 Bélyegtervező
+                5.5.3.4 Fametsző
+                5.5.3.5 Illusztrátor
+                5.5.3.6 Karikaturista
+                5.5.3.7 Litográfus
+                5.5.3.8 Reklámgrafikus
+                5.5.3.9 Rézmetsző
+
+            5.5.4 Iparművész
+                5.5.4.1 Aranyhímző
+                5.5.4.2 Aranyozó
+                5.5.4.3 Belsőépítész
+                5.5.4.4 Bőrdíszműves
+                5.5.4.5 Bőrművész
+                5.5.4.6 Csipketervező
+                5.5.4.7 Divattervező
+                5.5.4.8 Foltvarró művész
+                5.5.4.9 Formatervező
+                5.5.4.10 Gyertyaöntő
+                5.5.4.11 Hímző
+                5.5.4.12 Keramikus
+                5.5.4.13 Kosárfonó
+                5.5.4.14 Kovácsmester
+                5.5.4.15 Könyvkötő
+                5.5.4.16 Kulacskészítő
+                5.5.4.17 Ötvös
+                5.5.4.18 Porcelánfestő
+                5.5.4.19 Reklámgrafikus
+                5.5.4.20 Szövő
+                5.5.4.21 Textilművész
+                5.5.4.22 Tipográfus
+                5.5.4.23 Üvegművész
+
+            5.5.5 Restaurátor
+
+            5.5.6 Szobrász
+                5.5.6.1 Éremművész
+5.5.6.1.1	Éremmetsző
+                5.5.6.2 Faszobrász
+                5.5.6.3 Kőfaragó
+
+        5.6 Kritikus
+            5.6.1 Filmkritikus
+            5.6.2 Színikritikus
+            5.6.3 Zenekritikus
+
+        5.7 Mecénás
+
+        5.8 Műkereskedő
+5.8.1	Antikvárius
+5.8.2	Könyvkereskedő
+
+        5.9 Művészeti vezető
+
+        5.10 Művészettörténész 
+5. 10.1  Cirkusztörténész
+            5.10.2 Építészettörténész
+            5.10.3 Filmtörténész
+            5.10.4 Fotótörténész
+            5.10.5 Numizmatikus
+            5.10.6 Színháztörténész
+            5.10.7 Tánctörténész
+            5.10.8 Zenetörténész
+    6. SPORT
+
+        6.1. Atléta
+            6.1.1. DOBÓATLÉTA
+                6.1.1.1. Diszkoszvető
+                6.1.1.2. Gerelyhajító
+                6.1.1.3. Kalapácsvető
+                6.1.1.4. Súlylökő
+            6.1.2. Gyalogló
+            6.1.3. Háromtusázó
+            6.1.4. Hétpróbázó
+            6.1.5. Kalapácsvető
+            6.1.6. Ötpróbázó
+            6.1.7. Súlylökő
+            6.1.8. Tízpróbázó
+            6.1.9. UGRÓATLÉTA
+                6.1.9.1. Hármasugró
+                6.1.9.2. Magasugró
+                6.1.9.3. Rúdugró
+                6.1.9.4. Távolugró
+
+        6.2. Edző
+
+        6.3. Erősportoló
+            6.3.1. Súlyemelő
+            6.3.2. Testépítő
+
+        6.4. GÉPJÁRMŰSPORT
+            6.4.1. Autómodellező
+            6.4.2. Autóversenyző
+            6.4.3. Gokartversenyző
+            6.4.4. Kerékpárversenyző
+            6.4.5. Motorcsónakversenyző
+            6.4.6. Motorkerékpárversenyző
+
+        6.5. GIMNASZTIKA
+            6.5.1. Aerobicversenyző
+            6.5.2. Fitnessversenyző
+            6.5.3. Kötélugró
+            6.5.4. Művészi tornász
+            6.5.5. Sportakrobata
+            6.5.6. Tornász
+            6.5.7. Versenytáncos
+
+        6.6. GÖRSPORT
+            6.6.1. Görkorcsolyázó
+
+        6.7. Játékvezető
+
+        6.8. KÁRTYAJÁTÉK	
+            6.8.1. Bridzsező
+            6.8.2. Pókerjátékos
+            6.8.3. Tarokkozó
+
+        6.9. Kerékpárversenyző
+            6.9.1. Motorkerékpárvernyző
+            6.9.2. Salakmotorkerékpáros
+
+        6.10. KÜZDŐSPORT
+            6.10.1.  Aikidós
+            6.10.2.  Birkózó
+            6.10.3.  Bo jitsu kai versenyző
+            6.10.4.  Budokan harcművész
+            6.10.5.  Cselgáncsozó
+            6.10.6.  Karetézó
+            6.10.7.  Kendózó
+            6.10.8.  Kickbokszoló
+            6.10.9.  Kung-fuzó
+            6.10.10.  Ökölvívó
+            6.10.11. Szumózó
+            6.10.12. Tekvandózó
+            6.10.13. Thaibokszoló
+            6.10.14. Vívó
+                6.10.14.1. Kardvívó
+                6.10.14.2. Párbajtőrvívó
+                6.10.14.3. Tőrvívó
+                         6.10.12  Zen Bu Kan Kempo harcművész
+
+        6.11. LABDAJÁTÉKOK
+            6.11.1.  Asztaliteniszező
+            6.11.2.  Biliárdozó
+            6.11.3.  Fallabdázó
+            6.11.4.  Floorballozó
+            6.11.5.  Golfozó
+            6.11.6.  Gyeplabdázó
+            6.11.7.  Kézilabdázó
+            6.11.8.  Kosárlabdázó
+            6.11.9.  Labdarúgó
+            6.11.10. Lábteniszező
+            6.11.11. Lábtoll-labdázó
+            6.11.12. Lovaspólózó
+            6.11.13. Rögbijátékos
+            6.11.14. Röplabdázó
+            6.11.15. Teniszező
+            6.11.16. Tollaslabdázó
+            6.11.17. Vízilabdázó
+
+        6.12. LOVASSPORT
+            6.12.1. Díjlovagló
+            6.12.2. Díjugrató
+            6.12.3. Fogathajtó
+            6.12.4. Lovas
+            6.12.5. Lovaspólózó
+            6.12.6. Lovastornász
+            6.12.7. Lovastusázó
+
+        6.13. LÖVÉSZET
+            6.13.1. Íjász
+6.13.1.1	Számszeríjász
+            6.13.2. Sílövő
+            6.13.3. Sportlövő
+
+        6.14. Masszőr
+
+        6.15. MODELLEZŐSPORT
+            6.15.1. Autómodellező
+            6.15.2. Hajómodellező
+            6.15.3. Rádiómodellező
+
+        6.16. Sportorvos
+
+        6.17. Sporttörténész
+
+        6.18. Sportújságíró
+
+        6.19. Sportvezető
+
+        6.20. TÁBLAJÁTÉK
+            6.20.1. Asztali-labdarúgó
+            6.20.2. Dartsversenyző
+            6.20.3. Sakkozó
+                6.20.3.1. Hexasakkozó
+                6.20.3.2. Sakkfeladványszerző
+
+        6.21. TEKEJÁTÉK
+            6.21.1. Bocsaversenyző
+            6.21.2. Bowlingozó
+            6.21.3. Petanque-versenyző
+            6.21.4. Tekéző
+
+        6.22. TERMÉSZETI SPORT
+            6.22.1. Gyepsíző
+            6.22.2. Hegymászó
+            6.22.3. LÉGISPORT
+                6.22.3.1. Ejtőernyős
+                6.22.3.2. Léggömbrepülő
+                6.22.3.3. Rádiótávírász
+                6.22.3.4. Repülőmodellező
+                6.22.3.5. Sárkányrepülő
+                6.22.3.6. Siklóernyős
+                6.22.3.7. Sportrepülő
+                6.22.3.8. Vitorlázórepülő
+            6.22.4. Sziklaugró
+            6.22.5. Tájfutó
+            6.22.6. TÉLISPORT
+                6.22.6.1. Bobversenyző
+                6.22.6.2. Curlingversenyző
+                6.22.6.3. Gyorskorcsolyázó
+                6.22.6.4. Jégkorongozó
+                6.22.6.5. Kutyaszánversenyző
+                6.22.6.6. Műkorcsolyázó
+                6.22.6.7. Síelő
+                6.22.6.8. Sífutó
+                6.22.6.9. Sílövő
+                6.22.6.10. Síugró
+                6.22.6.11.  Snowboardozó
+            6.22.7. VÍZISPORT
+                6.22.7.1. Búvár
+                6.22.7.2. Búvárúszó
+                6.22.7.3. Evezős
+                6.22.7.4. Hajómodellező
+                6.22.7.5. Horgász
+                6.22.7.6. Kajakozó
+                6.22.7.7. Kajakpólós
+                6.22.7.8. Kenus
+                6.22.7.9. Kite versenyző
+                6.22.7.10.  Motorcsónakversenyző
+                6.22.7.11.  Műugró
+                6.22.7.12.  Sárkányhajós
+                6.22.7.13.  Szinkronúszó
+                6.22.7.14.  Szörföző
+                6.22.7.15.  Úszó
+                6.22.7.16.  Vitorlázó
+                6.22.7.17.  Vízilabdázó
+                6.22.7.18.  Vízisíző
+
+        6.23. Testnevelő
+
+        6.24. TÖBBPRÓBÁZÓ
+            6.24.1. Hétpróbázó
+            6.24.2. Ötpróbázó
+            6.24.3. Öttusázó
+            6.24.4. Quadriatlonista
+            6.24.5. Tízpróbázó
+            6.24.6. Triatlonista
+
+    7. TÁRSADALOMTUDOMÁNY
+
+        7.1. Filozófus
+            7.1.1. Pszichológus
+                7.1.1.1. Grafológus
+                7.1.1.2. Gyermekpszichológus
+                7.1.1.3. Mnemotechnikus
+                7.1.1.4. Parapszichológus
+                7.1.1.5. Pszichoanalitikus
+                7.1.1.6. Szociálpszichológus
+            7.1.2. Filozófiatörténész
+            7.1.3. Logikus
+            7.1.4. Parakutató
+	7.1.4.1	Parapszichológus
+
+        7.2. Filantróp
+
+        7.3. Futurológus
+
+        7.4. Geográfus
+7.4.1	Utazó
+
+        7.5. HADÜGY
+            7.5.1. Antifasiszta ellenálló
+            7.5.2. Ejtőernyős
+            7.5.3. Fegyvertörténész
+            7.5.4. Forr. és szabadságharc áldozata(1956)
+            7.5.5. Forr. és szabadságharc mártírja(1956) 
+            7.5.6. Hadbíró
+            7.5.7. Hadmérnök
+            7.5.8. Hadtörténész
+            7.5.9. Katonatiszt
+                7.5.9.1. Alezredes
+                7.5.9.2. Altábornagy
+                7.5.9.3. Brigadéros
+                7.5.9.4. Dandártábornok
+                7.5.9.5. Ezredes
+                7.5.9.6. FORRADALOM ÉS SZABADSÁG-HARC (1848/49)
+                    7.5.9.6.1. C.honvéd ezredes(1848/49)
+                    7.5.9.6.2. C.honvéd őrnagy(1848/49)
+                    7.5.9.6.3. C.nemzetőr ezredes(1848/49)
+                    7.5.9.6.4. C.nemzetőr őrnagy(1848/49)
+                    7.5.9.6.5. Honvéd alezredes(1848/49)
+                    7.5.9.6.6. Honvéd alszázados(1848/49)
+                    7.5.9.6.7. Honvéd altábornagy(1848/49)
+                    7.5.9.6.8. Honvéd ezredes(1848/49)
+                    7.5.9.6.9. Honvéd főhadnagy(1848/49)
+                    7.5.9.6.10. Honvéd főszázados(1848/49)
+                    7.5.9.6.11. Honvéd hadnagy(1848/49)
+                    7.5.9.6.12. Honvéd őrnagy(1848/49)
+                    7.5.9.6.13. Honvéd százados(1848/49)
+                    7.5.9.6.14. Honvéd tábornok(1848/49)
+                    7.5.9.6.15. Honvéd vezérőrnagy(1848/49)
+                    7.5.9.6.16. Nemzetőr alezredes(1848/49)
+                    7.5.9.6.17. Nemzetőr ezredes(1848/49)
+                    7.5.9.6.18. Nemzetőr hadnagy(1848/49)
+                    7.5.9.6.19. Nemzetőr őrnagy(1848/49)
+                    7.5.9.6.20. Nemzetőr százados(1848/49)
+                7.5.9.7. Generális
+                7.5.9.8. Hajdúkapitány
+                7.5.9.9. Huszártiszt
+                7.5.9.10. Őrnagy
+                7.5.9.11. RÁKÓCZI-SZABADSÁGHARC
+                    7.5.9.11.1. Kuruc alezredes
+                    7.5.9.11.2. Kuruc altábornagy
+                    7.5.9.11.3. Kuruc brigadéros
+                    7.5.9.11.4. Kuruc ezeres kapitány
+                    7.5.9.11.5. Kuruc ezredes
+                    7.5.9.11.6. Kuruc generális
+                    7.5.9.11.7. Kuruc kapitány
+                    7.5.9.11.8. Kuruc tábornagy
+                    7.5.9.11.9. Kuruc tábornok
+                7.5.9.12. Százados
+                7.5.9.13. Tábornagy
+                7.5.9.14. Tábornok
+                7.5.9.15. Táborszernagy
+                7.5.9.16. Testőrtiszt
+                7.5.9.17. Vezérezredes
+                7.5.9.18. Vezérőrnagy
+            7.5.10.  Puskaműves
+            7.5.11. Tábori pap
+            7.5.12. Testőr
+            7.5.13. Várkapitány
+            7.5.14. Várnagy
+            7.5.15. Vezérkari főnök
+
+        7.6. ÍRÁSTUDOMÁNY
+            7.6.1. Grafológus
+            7.6.2. Gyorsírásszakértő
+            7.6.3. Paleográfus
+
+        7.7. JOG
+            7.7.1. Bányajogász
+            7.7.2. Büntetőjogász
+            7.7.3. Egyházjogász
+            7.7.4. Hadbíró
+            7.7.5. Igazságügyi orvosszakértő
+            7.7.6. Jogász
+            7.7.7. Joggyakornok
+            7.7.8. Jogtörténész
+            7.7.9. Koronaügyész
+            7.7.10. Környezetjogász
+            7.7.11. Nemzetközi jogász
+            7.7.12. Szabadalmi ügyvivő
+            7.7.13. Szerzői jogász
+            7.7.14. Táblabíró
+            7.7.15. Törvényszéki bíró
+            7.7.16. Ügyész
+            7.7.17. Ügyvéd
+            7.7.18. Ülnök
+            7.7.19. Világűrjogász
+
+        7.8. KÖZGAZDASÁG
+            7.8.1. Agrárközgazdász
+            7.8.2. Bankár
+            7.8.3. Biztosítási szakértő
+            7.8.4. Ergonómus
+            7.8.5. Gazdaságtörténész
+            7.8.6. Idegenforgalmi szakértő
+            7.8.7. Közgazdász
+            7.8.8. Külkereskedő
+
+        7.9. KÖZGYŰJTEMÉNY
+            7.9.1. Könyvtáros
+                7.9.1.1. Bibliográfus
+                7.9.1.2. Zenei könyvtáros
+            7.9.2. Levéltáros
+            7.9.3. Muzeológus
+            7.9.4. Népművelő/művelődésszervező
+  7.9.4.1       Egyesületi vezető
+            7.9.5. Rendezvényszervező
+  7..9.5.1	  Hangversenyrendező			
+
+        7.10. KÖZIGAZGATÁS
+            7.10.1.  Köztisztviselő
+                7.10.1.1. Csendőrtiszt
+                7.10.1.2. Diplomata
+                7.10.1.3. Határőrtiszt
+                7.10.1.4. Jegyző
+                7.10.1.5. Közjegyző
+                7.10.1.6. Országgyűlési képviselő
+                7.10.1.7. Pénzügyőr
+                7.10.1.8. Polgármester
+                7.10.1.9. Postatisztviselő
+                7.10.1.10. Rendőrtiszt
+                7.10.1.11. Szociális munkás
+                        7.10.1.11.1.1. Szociális szervező
+                7.10.1.12. Tűzoltótiszt
+                7.10.1.13. Vízimentő
+            7.10.2. TÖRTÉNELMI TISZTSÉG
+                7.10.2.1. Ajtónállómester
+                7.10.2.2. Alispán
+                7.10.2.3. Alkancellár
+                7.10.2.4. Alkincstartó
+                7.10.2.5. Árvaszéki elnök
+                7.10.2.6. Asztalnokmester 
+                7.10.2.7. Bán
+                7.10.2.8. Erdélyi fejedelem
+                7.10.2.9. Erdélyi vajda
+                7.10.2.10. Étekfogómester
+                7.10.2.11. Fejedelem
+                7.10.2.12. Főajtónálló
+                7.10.2.13. Főispán
+                7.10.2.14. Főkamarás
+                7.10.2.15. Főkancellár
+                7.10.2.16. Főlovászmester
+                7.10.2.17. Főpohárnokmester
+                7.10.2.18. Főudvarmester
+                7.10.2.19. Helytartó
+                7.10.2.20. Helytartótanácsos
+                7.10.2.21. Hétszemélynök
+                7.10.2.22. Ispán
+                7.10.2.23. Kamaraelnök
+                7.10.2.24. Kamarás
+                7.10.2.25. Kancellár
+                7.10.2.26. Kincstartó
+                7.10.2.27. Király
+                7.10.2.28. Királyi személynök
+                7.10.2.29. Királyi tanácsos
+                7.10.2.30. Királynő
+                7.10.2.31. Kormányzó
+                7.10.2.32. Koronaőr
+                7.10.2.33. Koronaügyész
+                7.10.2.34. Lovászmester
+                7.10.2.35. Magyar király
+                7.10.2.36. Magyar királynő
+                7.10.2.37. Nádor
+                7.10.2.38. Nemzetségfő
+                7.10.2.39. Országbíró
+                7.10.2.40. Pohárnokmester
+                7.10.2.41. Szenátor(1705/11)
+                7.10.2.42. Tárnokmester
+                7.10.2.43. Törzsfő
+                7.10.2.44. Udvarmester
+                7.10.2.45. Várnagy
+
+        7.11.  Kriminológus
+            7.11.1. Detektív
+
+        7.12. NÉPRAJZ
+            7.12.1. Betyár
+            7.12.2. Etnográfus
+            7.12.3. Etnológus
+            7.12.4. Mesegyűjtő
+            7.12.5. Mesemondó
+            7.12.6. Népdalgyűjtő
+            7.12.7. Népmesekutató
+            7.12.8. Népzenekutató
+            7.12.9. Népzenész
+            7.12.10. Nótagyűjtő
+            7.12.11. Viaszöntő
+
+        7.13.  NEVELÉS
+            7.13.1. Bábpedagógus
+            7.13.2. Cserkészvezető
+            7.13.3. Dajka
+            7.13.4. Egy./főisk. hallgató
+            7.13.5. Gyermekpszichológus
+            7.13.6. Gyógypedagógus
+                7.13.6.1. Gyógytestnevelő
+                7.13.6.2. Logopédus
+            7.13.7. Hitoktató
+            7.13.8. Licentiatus
+            7.13.9. Népművelő/művelődésszervező
+            7.13.10. Neveléstörténész
+            7.13.11. Nevelő
+            7.13.12. Óvodapedagógus
+            7.13.13. Pedagógus
+            7.13.14. Tanuló
+            7.13.15. Testnevelő
+            7.13.16. Zenepedagógus
+
+        7.14.  Nyelvész
+            7.14.1. Eszperantista
+            7.14.2. Filológus
+            7.14.3. Germanista
+            7.14.4. Klasszika-filológus
+            7.14.5. Lexikográfus
+            7.14.6. Szótárszerkesztő
+
+        7.15.  Orientalista
+            7.15.1. Armenológus
+            7.15.2. Bizantinológus
+            7.15.3. Indológus
+            7.15.4. Sinológus
+            7.15.5. Tibetológus
+            7.15.6. Turkológus
+
+        7.16.  POLITIKA
+            7.16.1. Forr. és szabadságharc áldozata(1956)
+            7.16.2. Forr. és szabadságharc mártírja(1956)
+            7.16.3. Kommunista mozgalom harcosa
+            7.16.4. Munkásmozgalom harcosa
+            7.16.5. Művelődéspolitikus
+            7.16.6. Országgyűlési képviselő
+            7.16.7. Politikus
+            7.16.8. Politológus
+            7.16.9. Szakszervezeti vezető
+            7.16.10. Szenátor(1705/11)
+            7.16.11. Szociálpolitikus
+
+        7.17.  Szociológus
+            7.17.1. Cigánykutató
+            7.17.2. Demográfus
+            7.17.3. Kommunikációs szakértő
+            7.17.4. Politológus
+            7.17.5. Statisztikus
+                7.17.5.1. Agrárstatisztikus
+                7.17.5.2. Demográfus
+            7.17.6. Szociálpszichológus
+
+        7.18.  TÖMEGKOMMUNIKÁCIÓ
+            7.18.1. Kommunikációs szakértő
+            7.18.2. Könyvkiadó
+            7.18.3. Reklámgrafikus
+            7.18.4. Reklámszakértő
+            7.18.5. Sajtóinformatikus
+            7.18.6. Sajtótörténész
+            7.18.7. Újságíró
+                7.18.7.1. Fotóriporter
+                7.18.7.2. Publicista
+                7.18.7.3. Rádióbemondó
+                7.18.7.4. Sportújságíró
+                7.18.7.5. Szerkesztő
+                7.18.7.6. Televíziós bemondó
+
+        7.19.  Történész
+            7.19.1. Agrártörténész
+            7.19.2. Diplomáciatörténész
+            7.19.3. Egyháztörténész
+            7.19.4. Gazdaságtörténész
+            7.19.5. Genealógus
+            7.19.6. Hadtörténész
+                7.19.6.1. Fegyvertörténész
+            7.19.7. Helytörténész
+            7.19.8. Heraldikus
+            7.19.9. Művelődéstörténész
+                7.19.9.1. Bábtörténész
+                7.19.9.2. Könyvtörténész
+                7.19.9.3. Művészettörténész
+                    7.19.9.3.1. Építészettörténész
+                    7.19.9.3.2. Filmtörténész
+                    7.19.9.3.3. Fotótörténész
+                    7.19.9.3.4. Irodalomtörténész
+                    7.19.9.3.5. Színháztörténész
+                    7.19.9.3.6. Tánctörténész
+                    7.19.9.3.7. Zenetörténész
+                7.19.9.4. Neveléstörténész
+                7.19.9.5. Nyomdatörténész
+                7.19.9.6. Sajtótörténész
+                7.19.9.7. Sporttörténész
+            7.19.10. Ókortörténész
+                7.19.10.1.  Egyiptológus
+                7.19.10.2.  Klasszika-filológus
+                7.19.10.3.  Sumerológus
+            7.19.11. Régész
+                7.19.11.1. Archeozoológus
+            7.19.12. Technikatörténész
+                7.19.12.1. Repülőtörténész
+            7.19.13. Tudománytörténész
+                7.19.13.1.  Filozófiatörténész
+                7.19.13.2.  Fizikatörténész
+                7.19.13.3.  Gyógyszerészettörténész
+                7.19.13.4.  Jogtörténész
+                7.19.13.5.  Orvostörténész
+                7.19.13.6.  Térképtörténész
+            7.19.14. Vallástörténész
+
+        7.20.  Tudománymetrikus
+
+        7.21.  Tudományszervező
+
+        7.22.  VALLÁS
+            7.22.1. Adventista lelkész
+            7.22.2. Anabaptista lelkész
+            7.22.3. Anglikán lelkész
+            7.22.4. Baptista lelkész
+            7.22.5. Bíboros
+            7.22.6. Egyházi vezető
+            7.22.7. Egyházjogász
+            7.22.8. Egyháztörténész
+            7.22.9. Érsek
+            7.22.10. Érseki helynök
+            7.22.11. Ev. lelkész
+            7.22.12. Ev. lelkészjelölt
+            7.22.13. Ev. püspök
+            7.22.14. Görögkat. lelkész
+            7.22.15. Görögkat. püspök
+            7.22.16. Görögkeleti lelkész
+            7.22.17. Görögkeleti püspök
+            7.22.18. Hebraista
+            7.22.19. Hercegprímás
+            7.22.20. Hitoktató
+            7.22.21. Hitszónok
+            7.22.22. Kanonok
+            7.22.23.  Kántor
+            7.22.24. Káplán
+            7.22.25. Kat. plébános
+            7.22.26. Kat. püspök
+            7.22.27. Metodista lelkész
+            7.22.28. Metodista püspök
+            7.22.29. Metropolita
+            7.22.30. Misszionárius
+            7.22.31. Nagyprépost
+            7.22.32. Pápai kamarás
+            7.22.33. Pápai prelátus
+            7.22.34. Patriarcha
+            7.22.35. Prépost
+            7.22.36. Presbiteriánus lelkész
+            7.22.37. Prot. prédikátor
+            7.22.38. Pünkösdi lelkész
+            7.22.39. Rabbi
+            7.22.40. Ref. lelkész
+            7.22.41. Ref. lelkészjelölt
+            7.22.42. Ref. püspök
+            7.22.43. Reformátor
+            7.22.44. Segédpüspök
+            7.22.45. Sekrestyés
+            7.22.46. Szentszéki tanácsos
+            7.22.47. SZERZETES
+                7.22.47.1.  Ágoston-rendi szerzetes
+                7.22.47.2.  Annunciáta szerzetes
+                7.22.47.3.  Apáca
+                7.22.47.4.  Apát
+                7.22.47.5.  Bazilita szerzetes
+                7.22.47.6.  Bencés szerzetes
+                7.22.47.7.  Buddhista szerzetes
+                7.22.47.8.  Camalduli szerzetes
+                7.22.47.9.  Cisztercita szerzetes
+                7.22.47.10. Domonkos szerzetes
+                7.22.47.11. Dömés szerzetes
+                7.22.47.12. Ferences szerzetes
+                7.22.47.13. Irgalmasrendi szerzetes
+                7.22.47.14. Jezsuita szerzetes
+                7.22.47.15. Kalazantinus szerzetes
+                7.22.47.16. Kamillánus szerzetes
+                7.22.47.17. Kapisztrán szerzetes
+                7.22.47.18. Kapucinus szerzetes
+                7.22.47.19. Karmelita szerzetes
+                7.22.47.20. Karthauzi szerzetes
+                7.22.47.21. Keresztény iskolatestvér
+                7.22.47.22. Lazarista szerzetes
+                7.22.47.23. Mariánus szerzetes
+                7.22.47.24. Marista szerzetes
+                7.22.47.25. Mechitarista szerzetes
+                7.22.47.26. Minorita szerzetes
+                7.22.47.27. Olivetánus szerzetes
+                7.22.47.28. Oratoriánus szerzetes
+                7.22.47.29. Orsolyita szerzetes
+                7.22.47.30. Pálos szerzetes
+                7.22.47.31. Piarista szerzetes
+                7.22.47.32. Premontrei szerzetes
+                7.22.47.33. Stefanita szerzetes
+                7.22.47.34. Szaleziánus szerzetes
+                7.22.47.35. Szalvátor szerzetes
+                7.22.47.36. Szervita szerzetes
+                7.22.47.37. Trinitárius szerzetes
+                7.22.47.38. Verbita szerzetes
+            7.22.48. Tábori pap
+            7.22.49. Talmudista
+            7.22.50. Teológus
+            7.22.51. Unit. lelkész
+            7.22.52. Unit. püspök
+            7.22.53. Vallástörténész
+
+    8. TERMÉSZETTUDOMÁNY
+
+        8.1. Biológus
+            8.1.1. Antropológus
+            8.1.2. Biofizikus
+            8.1.3. Biokémikus
+            8.1.4. Botanikus
+                8.1.4.1. Paleobotanikus
+                8.1.4.2. Dendrológus
+                8.1.4.3. Mikológus
+                8.1.4.4. Mohász
+            8.1.5. Citológus
+            8.1.6. Genetikus
+                8.1.6.1. Növénynemesítő
+            8.1.7. Hidrobiológus
+                8.1.7.1. Algológus
+                8.1.7.2. Halbiológus
+            8.1.8. Mikrobiológus
+            8.1.9. Neurobiológus
+            8.1.10. Parazitológus
+            8.1.11. Sugárbiológus
+            8.1.12. Talajbiológus
+            8.1.13. Zoológus
+                8.1.13.1. Archeozoológus
+                8.1.13.2. Csiga- és kagylószakértő
+                8.1.13.3. Entomológus
+                8.1.13.4. Etológus
+                8.1.13.5. Lepkész
+                8.1.13.6. Ornitológus
+                8.1.13.7. Ovológus
+
+        8.2. Csillagász
+            8.2.1. Asztrofizikus
+            8.2.2. Űrkutató
+
+        8.3. Fizikus
+            8.3.1. Akusztikus
+            8.3.2. Atomfizikus
+            8.3.3. Biofizikus
+            8.3.4. Elektrofizikus
+            8.3.5. Energetikus
+            8.3.6. Fizikatörténész
+            8.3.7. Geofizikus
+            8.3.8. Optikus
+
+        8.4. Geográfus
+            8.4.1. Utazó
+
+        8.5. Geológus
+            8.5.1. Agrogeológus
+            8.5.2. Archeozoológus
+            8.5.3. Barlangkutató
+            8.5.4. Geofizikus
+            8.5.5. Geokémikus
+            8.5.6. Hidrogeológus
+            8.5.7. Meteorológus
+            8.5.8. Mineralógus
+            8.5.9. Oceanológus
+
+        8.6. Hidrológus
+            8.6.1. Hidrobiológus
+            8.6.2. Hidrogeológus
+            8.6.3. Oceanológus
+
+        8.7. Kémikus
+            8.7.1. Agrokémikus
+                8.7.1.1. Talajvegyész
+            8.7.2. Biokémikus
+            8.7.3. Mineralógus
+
+        8.8. Matematikus
+
+        8.9. Ökológus
+            8.9.1. Környezetjogász
+
+        8.10. Paleontológus
+            8.10.1. Paleobotanikus
+
+        8.11. Térképész
+            8.11.1. Térképtörténész
+
+        8.12. Tudománymetrikus
+
+        8.13. Tudományszervező
+
+    9. TÖRTÉNELMI RANG
+
+        9.1. Főherceg
+        9.2. Herceg
+        9.3. Hercegnő
+        9.4. Királyné
+        9.5. Magyar királyné
