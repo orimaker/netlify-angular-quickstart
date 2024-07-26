@@ -2,7 +2,7 @@ import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
 import { Observable, map } from 'rxjs';
 
-interface TreeNode {
+export interface TreeNode {
   id: number;
   name: string;
   children: TreeNode[];
@@ -15,19 +15,19 @@ export class FoglalkozasFileProcessorService {
 
   constructor(private http: HttpClient) { }
 
-  loadFile(filePath: string): Observable<TreeNode[]> {
+  loadFile(filePath: string): Observable<TreeNode> {
     return this.http.get(filePath, { responseType: 'text' }).pipe(
       map(data => this.processFile(data))
     );
   }
 
-  private processFile(data: string): TreeNode[] {
+  private processFile(data: string): TreeNode {
     const root: TreeNode = { name: 'root', id: 0, children: [] };
     const lines = data.split('\n');
 
     lines.forEach(line => this.processLine(line, root));
 
-    return root.children;
+    return root;
   }
 
   private processLine(line: string, root: TreeNode) {
