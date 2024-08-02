@@ -33,3 +33,18 @@ footer {
 footer img {
     width: 20px;
 }
+
+.searchInputField {
+  min-width: 220px;  
+}
+
+.treeListDisplay {
+  padding-top: 20px;
+  width: 430px;
+}
+
+html,
+body,
+.content {
+	height: 100%;
+}

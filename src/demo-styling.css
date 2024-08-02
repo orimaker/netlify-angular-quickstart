@@ -2,7 +2,7 @@
 
 :root {
   --main-family: 'Poppins', sans-serif;
-  --color-bg: linear-gradient(180deg, #FFFFFF 0%, #AEC6DC 100%);
+  /*--color-bg: linear-gradient(180deg, #FFFFFF 0%, #AEC6DC 100%);*/
 
   /* Controls the blob blur gradient colors within the main tag's svg */
   --top-right-blur-1: #20C6B7;
@@ -42,7 +42,7 @@ body{
 .header h1 {
   padding-top:5%;
   margin: 0;
-  font-size: calc(max(5vw, 32px));
+  font-size: 30px;
 }
 
 .header .logo img {
