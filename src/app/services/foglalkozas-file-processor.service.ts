@@ -1,6 +1,6 @@
 import { Injectable } from '@angular/core';
 import { HttpClient } from '@angular/common/http';
-import { Observable, map } from 'rxjs';
+import { Observable, map, of } from 'rxjs';
 
 export interface TreeNode {
   id: number;
@@ -17,6 +17,12 @@ export class FoglalkozasFileProcessorService {
 
   loadFile(filePath: string): Observable<TreeNode> {
     return this.http.get(filePath, { responseType: 'text' }).pipe(
+      map(data => this.processFile(data))
+    );
+  }
+
+  loadFromText(foglalkozasok_text: string): Observable<TreeNode> {
+    return of(foglalkozasok_text).pipe(
       map(data => this.processFile(data))
     );
   }
@@ -55,7 +61,7 @@ export class FoglalkozasFileProcessorService {
           currentNode.name = title;
         }
       });
-     
+
     }
   }
 
